@@ -1,3 +1,3 @@
 # Proyecto-PostgreSQL-Avanzado
-![alt text]![Linea del tiempo](https://github.com/Ericktb27/Proyecto-PostgreSQL-Avanzado/assets/173080878/5b121614-96b8-4bff-af55-213765b0a542)
+![Linea del tiempo]![Linea del tiempo](https://github.com/Ericktb27/Proyecto-PostgreSQL-Avanzado/assets/173080878/5b121614-96b8-4bff-af55-213765b0a542)
 
