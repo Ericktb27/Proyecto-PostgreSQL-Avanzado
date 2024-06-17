@@ -4,8 +4,13 @@ Linea del tiempo ![Linea del tiempo](https://github.com/Ericktb27/Proyecto-Postg
 Completar una linea del tiempo
 
 1986 Inicio del Proyecto Postgres
+
 1996 Renombramiento de a PostgreSQL 6.0
+
 2005 Lanzamiento de PostgreSQL 8.0
+
 2010 Lanzamiento de PostgreSQL 9.0
+
 2016 Lanzamiento de PostgreSQL 9.6
+
 2020 Lanzamiento de PostgreSQL 13
